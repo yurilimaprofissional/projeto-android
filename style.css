@@ -230,14 +230,24 @@ section.pag2 {
     padding: 20px;
 }
 
+section.pag2 h1 {
+    text-shadow: 2px 2px 3px #000;
+}
+
 section.pag2 p {
     color: white;
     font-size: 20px;
     line-height: 40px;
     font-weight: bolder;
+    text-shadow: 2px 2px 3px #000;
 }
 
 
 a {
     color: white;
+}
+
+
+section#curiosidades {
+    transition: 0.5s;
 }
