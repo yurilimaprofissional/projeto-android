@@ -36,6 +36,10 @@ body {
     
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 
 
 header {
@@ -248,6 +252,3 @@ a {
 }
 
 
-section#curiosidades {
-    transition: 0.5s;
-}
