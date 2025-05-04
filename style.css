@@ -26,11 +26,13 @@
 
     margin: 0px;
     padding: 0px;
+    
 }
 
 body {
     background-color:#83e1ad;
     font-family: var(--fonte-padrão);
+    
     
 }
 
@@ -41,6 +43,10 @@ header {
     min-height: 150px;
     padding-top: 40px;
     
+}
+
+h1 {
+    color: white;
 }
 
 header h1 {
@@ -214,4 +220,24 @@ footer {
     color: #ffffff;
     text-align: center;
     padding: 30px;
+}
+
+
+/*ESTILO PÁGINA 2 */
+
+section.pag2 {
+    background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
+    padding: 20px;
+}
+
+section.pag2 p {
+    color: white;
+    font-size: 20px;
+    line-height: 40px;
+    font-weight: bolder;
+}
+
+
+a {
+    color: white;
 }
