@@ -36,10 +36,13 @@ body {
     
 }
 
+/* Para fazer o MENU SCROLL*/
+
 html {
     scroll-behavior: smooth;
 }
 
+/*---------------------------*/
 
 
 header {
